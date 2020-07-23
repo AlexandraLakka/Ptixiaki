@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="gr.hua.dit.it21525.doctorapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <!--<uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>-->
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.UserReviewsActivity"></activity>
+        <activity android:name=".activities.RatingActivity" />
+
+        <service
+            android:name=".service.NotificationService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver
+            android:name=".broadcastreceiver.NotificationReceiver">
+            <!--<intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="me.proft.alarms.ACTION_ALARM" />
+            </intent-filter>-->
+        </receiver>
+
+
+        <activity android:name=".activities.AppointmentInfoActivity" />
+        <activity android:name=".activities.CalendarActivity" />
+        <activity android:name=".activities.DoctorInfoActivity" />
+        <activity android:name=".activities.DoctorSearchResultsActivity" />
+        <activity android:name=".activities.RegisterDoctorActivity" />
+        <activity android:name=".activities.RegisterPatientActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.LoginActivity" />
+        <activity android:name=".activities.MenuActivity" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

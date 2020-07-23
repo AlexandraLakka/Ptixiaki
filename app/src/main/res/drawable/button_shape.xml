@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--https://www.journaldev.com/19850/android-button-design-custom-round-color#android-round-corner-button-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:endColor="@color/background"
+        android:gradientRadius="30dp"
+        android:type="radial"
+        android:startColor="@color/background" />
+
+    <corners android:radius="150dp" />
+
+    <stroke
+        android:width="2dp"
+        android:color="@android:color/black" />
+
+</shape>

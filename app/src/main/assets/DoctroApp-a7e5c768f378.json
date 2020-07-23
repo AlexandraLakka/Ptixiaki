@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "doctroapp",
+  "private_key_id": "a7e5c768f37818af2be78f62c6d619b40ece25d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCq4iyOUC/OBRtM\nstdYFdtudUbm0S1XZBHQo4OSN3gaxMl8bdi+y0kPqSxM6JjetobbmludWGoZMZZh\nxr9Tqql+NimTW4kiRm5wtkEspONbs8STRShNUGhh/YFuzfqZI+rO7w2Xs9gvKc62\nlSEZdXcKxHQrGyYxU8r2b6ErTfgPpxtASS4nHI5J27f/LBT5E8dUhpmCLGaSCQen\nAlT3c09nCJBVZ/Se6T9ivPLJNuGB1TnKE9ZUnswKE5ulZWI3YQM21UEz28HAPmaV\na8lwlz62Cf/XnZRBbXCJkSppofso3l665Ggk3tkUWd7puITwdjUandLpWpGAptWT\nmuDnknt1AgMBAAECggEABp/nXkpZhWvJQntEbJPHAqHlR8QgNTJvRl6wa8C0FUWV\nEg/SxpgW6FaEnc6pQ9O2Uq50ksWqB06sJ8o5V0MBzcodE9YJRkeODIHkRkN2KkiZ\nJvnCtYyXygS2jyxzufAchZKFkmCp0YTrZe9OGIXnQYbwLKOheBQUMDg6T/V2gmob\nH5ms+NnJJDqNfGy42ubxozWN3Boc3HiVFjSmnKSkP7WQ7TBjVRoZQ9JAJKvwGjBo\nN4fl4m0dxaeUH0u/u7p+bxOqjJrF5fQLo5buFwtPU0pN3i2uF5yPiDu5RGct0+8W\nLfemcxUPBnl/Ags+XERG9l8jMAEYQU1klhGJVjTc2QKBgQDcmHS0VxR+QZrA7d28\nwi+DVYoR3CbNy3lzsYM7ggvTSYJJ8c5jHU4aXuUlyI1S4id4mHaEoo3ldAx3YrcW\nMsviqSG9CZ489EKBhTE49kNcfOl0uKqkBA2r4ZvxzxZusLlKecgKEOpGXiC/m5q5\npqhMXSW6rB4aay2s70F1fduj/wKBgQDGTzbT+WbHWTqt83W2xByR+DdVb+Hlw+4R\nskgizL0KsLiolqdrvRzA3d8PJKjOseYSnWrLyQF/dqfpU/UhAxTxX5wcODau+d6U\nsWOSoUgofmu6kHOMn/yjdZXRNc5uQ2NntmnpUq2gZSimTdKEvOBTR6LLaVdPAhhw\ngVbcFu+QiwKBgQDIsUs75x2V4EnSzJW3bVOcwO3kYc5L3JqaTx19vkrT50TJ0Vxb\ngAXWqA8B2Pv6NBaE+PCaquk9n97Xns/DOmOTyxwOx/lWq0L2Yx7tG98c/efHcVqN\n7cIiZhdiX22hNtbckv8TaWA6tNhGemLCFIV5NCVnN8ALeQcNFn8PTXnOMQKBgHlU\ng+YjZFe5ZyaAm1fMGvLQHALA5kQuoRzgqDPqcgr1XrV/H0XSuaHi3ZOlSUbVHz/q\nYin2fF0hGtCuFn8xJIIdjiTR29soc58j/Rj8ZmqoFn9Z2+iBBhB4Y8ZRllBuGIae\n26Puet50pe9CE/g0m0c4wAiWFd34GT3UVHFp8v7LAoGAfLcjNefpUb6BT+NCtD//\n5jcAAvlFXGF9L1C30I9NW+8/gpqcjYA33dJtZ3zw0C/QCPmgTQ9nDUVd05Hdjs59\nVpRi/IQljvqS6pjlOPj5ZXNPXDkrXwg3NO07+9ePBaCFwtRgyREj0ykgFeTlIvCM\nGAEiEEuBuM0pLtPiRkqQys0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "doctorapp@doctroapp.iam.gserviceaccount.com",
+  "client_id": "115317637139324729983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/doctorapp%40doctroapp.iam.gserviceaccount.com"
+}

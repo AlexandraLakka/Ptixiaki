@@ -1,0 +1,32 @@
+{
+	"specialties":[
+		{"specialty": "nephrologist"},
+		{"specialty": "vascular surgeon"},
+		{"specialty": "angiologist"},
+		{"specialty": "hematologist "},
+		{"specialty": "allergist"},
+		{"specialty": "anesthesiologist"},
+		{"specialty": "gastroenterologist"},
+		{"specialty": "general practitioner"},
+		{"specialty": "dental surgeon"},
+		{"specialty": "gynecologist"},
+		{"specialty": "dermatologist"},
+		{"specialty": "nutritionist"},
+		{"specialty": "embryologist"},
+		{"specialty": "endocrinologist"},
+		{"specialty": "cardiologist"},
+		{"specialty": "cardiac surgeon"},
+		{"specialty": "neurologist"},
+		{"specialty": "neurosurgeon"},
+		{"specialty": "oncologist"},
+		{"specialty": "dentist"},		
+		{"specialty": "orthodontist"},
+		{"specialty": "urologist"},
+		{"specialty": "ophthalmologist"},
+		{"specialty": "pediatrician"},
+		{"specialty": "pneumonologist"},
+		{"specialty": "psychologist"},
+		{"specialty": "psychiatrist"},
+		{"specialty": "otolaryngologist"}
+	]
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "891001200284",
+    "firebase_url": "https://doctroapp.firebaseio.com",
+    "project_id": "doctroapp",
+    "storage_bucket": "doctroapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891001200284:android:d2bff9a5dc76750bca1759",
+        "android_client_info": {
+          "package_name": "gr.hua.dit.it21525.doctorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891001200284-u75n59fcpv248t9tsaa3g695s8j0op02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gr.hua.dit.it21525.doctorapp",
+            "certificate_hash": "0921f21768f0d91e59c239b867c6aa83a1d992e8"
+          }
+        },
+        {
+          "client_id": "891001200284-cq9mhjvn5q73iaufnb4bofnqbvq5e7ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gWlRUu9DNpbEs6V7D4EyhPYiribqpJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891001200284-cq9mhjvn5q73iaufnb4bofnqbvq5e7ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

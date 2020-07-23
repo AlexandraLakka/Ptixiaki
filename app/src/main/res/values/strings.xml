@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">DoctorApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragmnent">Home</string>
+    <string name="favourites_fragment">Favourites</string>
+    <string name="appointments_fragment">My Appointments</string>
+    <string name="reviews_fragment">My Reviews</string>
+    <string name="sign_out_menu_item">Sign out</string>
+    <string name="search_doctor_specialty">Search Specialty</string>
+
+    <string name="app_label">Doctor App</string>
+    <string name="search_hint">Search for doctor specialty</string>
+
+    <string name="welcome_message">Welcome to DoctorApp</string>
+
+    <!--register patient-->
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_button">Register</string>
+
+    <!--login-->
+    <string name="login_button">Login</string>
+    <string name="login_text">You already have an account? Login</string>
+
+    <string name="register_text">You don\'t have an account? Register now</string>
+    <string name="google_register">Or sign in with your Google Account</string>
+
+    <string name="doctor_register_button">Doctor Register</string>
+    <string name="patient_register_button">Patient Register</string>
+
+    <!--register doctor-->
+    <string name="profile_image">Profile Image</string>
+    <string name="full_name">Full Name</string>
+    <string name="doctor_address">Address</string>
+    <string name="doctor_phone_number">Phone Number</string>
+    <string name="doctor_working_hours">Working Hours</string>
+    <string name="chosen_account">Chosen Account</string>
+    <string name="user_calendars">Calendars</string>
+
+    <string name="snackbar_message">You have been registered successfully!</string>
+    <string name="snackbar_action">Login</string>
+
+    <string name="no_results">No results match your search</string>
+
+    <string name="doctor_search_name">Doctor Name</string>
+    <string name="doctor_search_specialty">Doctor Specialty</string>
+    <string name="doctor_search_address">Doctor Address</string>
+
+    <string name="choose_date">Book your appointment</string>
+
+    <string name="no_favourites">You currently have not added any doctors</string>
+
+    <string name="calendar_list_spinner">Select a calendar:</string>
+    <string name="service_account_permission">Allow DoctorApp\n(doctorapp@doctroapp.iam.gserviceaccount.com) \nto access your calendar</string>
+
+    <string name="createEventTitle">Title</string>
+    <string name="createEventDesc">Description</string>
+    <string name="createEventAttendee">Attendee</string>
+    <string name="createEventStart">Start At</string>
+    <string name="createEventStartDate">Pick Date</string>
+    <string name="createEventStartTime">Pick Time</string>
+
+    <string name="createEventEnd">End At</string>
+    <string name="createEventEndDate">Pick Date</string>
+    <string name="createEventEndTime">Pick Time</string>
+
+
+    <string name="createEventLocation">Location</string>
+    <string name="create_event">Create Event</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="appointment_title">Appointment Title</string>
+    <string name="appointment_start_date">Appointment Start Date</string>
+    <string name="no_appointments">You currently have not booked any appointments</string>
+
+    <string name="title">Title</string>
+    <string name="time">Time</string>
+    <string name="des">Description</string>
+    <string name="date">Date</string>
+    <string name="update_appointment">Update</string>
+    <string name="delete_appointment">Delete</string>
+
+    <string name="rate_button">Rate</string>
+    <string name="rate_text">Rate your experience</string>
+    <string name="review">Leave your review</string>
+    <string name="submit">Submit Feedback</string>
+    <string name="score">%1$s / 5\n(%2$d reviews)</string>
+    <string name="my_score">%1$s / 5</string>
+    <string name="score_text">Score</string>
+    <string name="check_reviews">Check Reviews</string>
+
+    <string name="user_reviews">Reviews</string>
+    <string name="no_reviews">You currently have not made any reviews</string>
+</resources>
